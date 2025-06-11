@@ -10,7 +10,7 @@ AgroGuard is a machine learning–powered web application designed to help farme
 - 🤖 Built using Convolutional Neural Networks (CNNs) trained on PlantVillage dataset
 - 🌐 Web interface built with Flask (HTML/CSS/JS)
 - 📊 Real-time predictions with accurate disease labels
-- 🌍 Supports multilingual extension and remedy suggestions (coming soon)
+- 🌍 Supports multilingual extension
 
 ## Preview
 <img width="959" alt="output1" src="https://github.com/user-attachments/assets/27c613b2-bb58-4157-95cb-8382ad59a925" />
